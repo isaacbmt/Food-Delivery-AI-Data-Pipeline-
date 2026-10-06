@@ -1,4 +1,4 @@
-# Zomato AI Data Engineering (Paraphrased README)
+# Zomato AI Data Engineering
 
 This project is an end-to-end batch data pipeline, built by following a [YouTube tutorial](https://youtu.be/kYwaNMQ3XT8?si=Ge8ilVxkmGQS6iIg). It starts with raw Zomato-style food delivery CSVs (think Uber Eats) and ends with AI-driven analytics.
 
